@@ -1,0 +1,25 @@
+.header-card {
+     background: url("https://res.cloudinary.com/dgstmfnsx/image/upload/v1683656252/shutterstock_2139069083_1_1_yfop3c.png");
+     width: 100%;
+     margin: auto;
+     height: 200px;
+     background-repeat: no-repeat;
+     position: relative;
+     background-size: cover;
+}
+.sub-card {
+     width: 700px;
+     height: 180px;
+     background: url("https://res.cloudinary.com/dgstmfnsx/image/upload/v1683656693/Rectangle_34624911_1_hqq5wk.png");
+     position: absolute;
+     right: 0px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 200px;
+}
+.h1 {
+     width: 200px;
+}

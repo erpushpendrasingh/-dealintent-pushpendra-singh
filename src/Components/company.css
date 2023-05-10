@@ -1,0 +1,47 @@
+.site {
+     display: flex;
+     width: 100%;
+}
+.main {
+     width: 75%;
+     /* margin: 10px; */
+     background: url("https://res.cloudinary.com/dgstmfnsx/image/upload/v1683670297/Web_150DPI-WeWork__-__21_Collyer_Quay__-__Singapore-15_1_1_bbgju2.png");
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+}
+.sidebar {
+     width: 25%;
+     margin: auto;
+     padding: 20px;
+}
+.header {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 10px;
+}
+.center {
+     width: 420px;
+     height: 160.39px;
+     border: 1px solid red;
+     position: absolute;
+     top: 90px;
+     left: 46%;
+     padding: 10px;
+     background: rgba(255, 255, 255, 0.7);
+}
+.tool {
+     width: 250px;
+     height: 40px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     border: 1px solid red;
+     position: absolute;
+     top: 10px;
+     left: 55%;
+     right: 50%;
+     background: rgba(255, 255, 255, 0.7);
+     padding: 5px;
+}
