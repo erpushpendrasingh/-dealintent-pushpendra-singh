@@ -9,6 +9,7 @@
      background-repeat: no-repeat;
      background-size: cover;
      position: relative;
+     background-position: bottom;
 }
 .sidebar {
      width: 25%;
@@ -44,4 +45,9 @@
      right: 50%;
      background: rgba(255, 255, 255, 0.7);
      padding: 5px;
+}
+@media only screen and (max-width: 786px) {
+     .sidebar {
+          /* display: none; */
+     }
 }

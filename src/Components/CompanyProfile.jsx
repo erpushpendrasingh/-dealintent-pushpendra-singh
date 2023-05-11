@@ -25,6 +25,8 @@ const CompanyProfile = () => {
      return (
           <Box background={"#F2FBF9"} w="90%" margin={"auto"}>
                <Box
+                    className="main-container"
+                    mt={"100px"}
                     width={"100%"}
                     height={"80px"}
                     display={"flex"}

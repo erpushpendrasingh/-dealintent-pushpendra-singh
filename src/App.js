@@ -6,9 +6,8 @@ function App() {
      return (
           <>
                <Navbar />
-               {/* <Header /> */}
-               {/* <CompanyProfile /> */}
-               
+               <Header />
+               <CompanyProfile />
           </>
      );
 }
